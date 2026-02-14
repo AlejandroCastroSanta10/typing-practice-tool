@@ -37,4 +37,4 @@
 ## 6. Polish and Testing
 
 - [x] 6.1 Add Lip Gloss styles: consistent color scheme, borders, padding for all screens
-- [ ] 6.2 Manual end-to-end testing: verify all navigation flows, tutorial lessons, free practice, and edge cases (empty input, rapid typing, resize)
+- [x] 6.2 Manual end-to-end testing: verify all navigation flows, tutorial lessons, free practice, and edge cases (empty input, rapid typing, resize)
